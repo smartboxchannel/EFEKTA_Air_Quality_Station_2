@@ -1,5 +1,7 @@
 # EFEKTA Air Quality Station 2
 
+![EFEKTA Air Quality Station 2](https://raw.githubusercontent.com/smartboxchannel/EFEKTA_Air_Quality_Station_2/refs/heads/main/Images/1.jpg) 
+
 ## Overview
 
 **EFEKTA Air Quality Station 2** is an air quality monitoring sensor featuring:
