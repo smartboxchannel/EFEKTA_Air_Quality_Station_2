@@ -195,7 +195,3 @@ Place the sensor within **1–2 meters** of the coordinator or a router with goo
 | Enclosure dimensions | 92 × 61 × 24 mm |
 | Power | USB Type-C (supports fast charging protocols) |
 
-
-### Home Assistant (Zigbee2MQTT) – EFEKTA Air Quality Station 2c
-
-### Home Assistant (Zigbee2MQTT) – EFEKTA Air Quality Station 2o
